@@ -40,8 +40,12 @@ The code that generated the above results are displayed as follows:
 ![Calculating_winning_candiate_and_percentage_votes](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Calculating_winning_candiate_and_percentage_votes.png)
 
 5. The election was won by candidate Diana DeGette. She won with a vote percentage of 73.8% and a total vote count of 272,892.
+The following code generated the winner:
+![Determining_winner](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Determining_winner.png)
 
 Here is a glance of the results of the election-audit: 
 ![Election_Results](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Election_Results.png)
 
 ## Election-Audit Summary
+
+
