@@ -48,4 +48,8 @@ Here is a glance of the results of the election-audit:
 
 ## Election-Audit Summary
 
+With some modifications to the code, the script can be used by the election commission to analyze any election data. A few modifications are suggested below that can help in doing so:
 
+1. For different elections, the rows may be in different order. Instead of hard coding the values of candidate_name and county_name, we can find a way to make sure the column of values we are looking at contains the correct data for the variable we are assigning it to, programatically. A way do this could be by using if-statements and putting conditions using the header row to identify the column we want to select.
+
+2. We can also use the script to analyze multiple election data simultaneously. To do so, we can convert our total_votes variable to a dictionary. The dictionary can hold key, value pairs with keys being the name or information of the election and the values being the total votes cast in that election. This way, if we work with data from multiple elections, we can keep track of the total votes cast in all of them in one place and easily access them when needed.
