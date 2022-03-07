@@ -1,6 +1,3 @@
-# -*- coding: UTF-8 -*-
-"""PyPoll Homework Challenge Solution."""
-
 # Add our dependencies.
 import csv
 import os
@@ -99,7 +96,7 @@ with open(file_to_save, "w") as txt_file:
         # 6c: Calculate the percentage of votes for the county.
         county_vote_percentage = float(votes_per_county) / float(total_votes) * 100
 
-         # 6d: Print the county results to the terminal.
+        # 6d: Print the county results to the terminal.
         county_results = (
             f'{county_name}: {county_vote_percentage:.1f}% ({votes_per_county:,})\n')
 
@@ -134,7 +131,7 @@ with open(file_to_save, "w") as txt_file:
 
         # Print each candidate's voter count and percentage to the terminal.
         print(candidate_results)
-        #  Save the candidate results to our text file.
+        # Save the candidate results to our text file.
         txt_file.write(candidate_results)
 
         # Determine winning vote count, winning percentage, and candidate.
