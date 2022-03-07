@@ -13,7 +13,7 @@ A Colorato Board of Elections employee has given me some tasks to complete an el
 7. Calculate the percentage of votes each county received out of the total number of votes.
 8. Determine the county with the highest turnout.
 
-# Purpose
+### Purpose
 
 This project analyzes election data to complete an election audit which outputs results for the above tasks. This analysis will help the Colorado Board of Elections to gain the information they want from the election data.
 
