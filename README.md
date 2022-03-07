@@ -28,6 +28,7 @@ The results and analysis of the election audit is as follows:
   * Denver: 82.8% (306,055)
   * Arapahoe: 6.7% (24,801)
 The code used to generate the results are displayed here:
+
 ![Calculating_percentage_votes_county](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Calculating_percentage_votes_county.png)
 
 3. Denver was the county with the largest voter turnout.
@@ -37,10 +38,12 @@ The code used to generate the results are displayed here:
   * Diana DeGette: 73.8% (272,892)
   * Raymon Anthony Doane: 3.1% (11,606)
 The code that generated the above results are displayed as follows:
+
 ![Calculating_winning_candiate_and_percentage_votes](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Calculating_winning_candiate_and_percentage_votes.png)
 
 5. The election was won by candidate Diana DeGette. She won with a vote percentage of 73.8% and a total vote count of 272,892.
 The following code generated the winner:
+
 ![Determining_winner](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Determining_winner.png)
 
 Here is a glance of the results of the election-audit: 
