@@ -46,7 +46,8 @@ The following code generated the winner:
 
 ![Determining_winner](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Determining_winner.png)
 
-Here is a glance of the results of the election-audit: 
+Here is a glance of the results of the election-audit:
+
 ![Election_Results](https://github.com/Zarif601/Election_Analysis/blob/main/Resources/Election_Results.png)
 
 ## Election-Audit Summary
